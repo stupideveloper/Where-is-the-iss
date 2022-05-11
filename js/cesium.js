@@ -112,7 +112,7 @@ const satellitePoint = viewer.entities.add({
 	position: overTime,
 	point: { pixelSize: 5, color: Color.RED },
 	model: {
-		uri: '/3d/iss.glb'
+		uri: './3d/iss.glb'
 	}
 });
 
